@@ -1,2 +1,2 @@
 # interviewFails
-Projects from interviews which i failed
+Projects from interviews 
